@@ -339,6 +339,11 @@ strong {
     gap: 20px;
 }
 
+a.sidebar__link:hover {
+    color: #14485b;
+    text-decoration: underline;
+}
+
 .sidebar__item + .sidebar__item{
     margin-top: 5px;
 }
